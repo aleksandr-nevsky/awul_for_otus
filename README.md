@@ -1,1 +1,6 @@
-# awul_for_otus
+# AWUL project
+### Awesome Wake-Up Light
+#### Backend для управления умным домом на базе Raspberry Pi. 
+Backend для Raspberry Pi. Написан на Quarkus. Обращается к GPIO через библиотеку pi4j. \
+Умеет управлять светодиодной лентой. Включает её по таймеру, регулирует яркость. \
+Считывает данные с датчика температуры DS18B20.
